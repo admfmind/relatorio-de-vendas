@@ -1,0 +1,17 @@
+[
+    {
+        "nome-item": "fita",
+        "fita": 22,
+        "total-fita": 30
+    },
+    {
+        "nome-item": "martelo",
+        "martelo": 25,
+        "total-martelo": 30
+    },
+    {
+        "nome-item": "prego",
+        "prego": 6,
+        "total-prego": 30
+    }
+]

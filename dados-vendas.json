@@ -1,0 +1,14 @@
+[
+    {
+        "vendedor": "CAIO caio",
+        "vendido-fita": 3,
+        "vendido-martelo": 0,
+        "vendido-prego": 1
+    },
+    {
+        "vendedor": "JEFERSON jeferson",
+        "vendido-fita": 6,
+        "vendido-martelo": 1,
+        "vendido-prego": 4
+    }
+]
